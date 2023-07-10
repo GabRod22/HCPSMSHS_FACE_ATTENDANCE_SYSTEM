@@ -1,10 +1,9 @@
 # HCPSMSHS_FACE_ATTENDANCE_SYSTEM
 
 ## Description
-[Add a brief description of your project]
+This is a Face Attendance System with Temperature designed for the school Honorato C. Perez Sr. Memorial Science High School, the project is a web application made possible by streamlit and other libraries.
 
 ## Setup Instructions
-https://ibb.co/JvmPRsm
 
 ### Temperature Sensor Setup
 1. Download the `Adafruit_MLX90614` library from the Arduino IDE.
@@ -25,12 +24,14 @@ https://ibb.co/JvmPRsm
   source myenv/bin/activate
   ```
 5. Once the virtual environment is activated, run the following command to install the required libraries mentioned in the `requirements.txt` file:
+pip install -r requirements.txt
 
 ### Additional Setup
 1. Download and install Visual Studio Community 2019.
 2. During the installation process, make sure to select the "Development with C++" workload.
 
+## Usage
+https://ibb.co/JvmPRsm
 
 ## License
 This code is licensed under the Apache License 2.0. You are not permitted to view, use, modify, or distribute this code without explicit permission. This code is exclusively for personal use within my school (Honorato C. Perez Sr. Memorial Science High School) and may not be used by other schools or institutions without my authorization.
-
