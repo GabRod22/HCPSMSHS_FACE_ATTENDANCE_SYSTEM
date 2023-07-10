@@ -26,7 +26,8 @@ This is a Face Attendance System with Temperature designed for the school Honora
 5. Once the virtual environment is activated, run the following command to install the required libraries mentioned in the `requirements.txt` file:
    ```
    pip install -r requirements.txt
-
+   ```
+   
 ### Additional Setup
 1. Download and install Visual Studio Community 2019.
 2. During the installation process, make sure to select the "Development with C++" workload.
