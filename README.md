@@ -1,7 +1,7 @@
 # HCPSMSHS_FACE_ATTENDANCE_SYSTEM
 
 ## Description
-This is a Face Attendance System with Temperature designed for the school Honorato C. Perez Sr. Memorial Science High School (HCPSMSHS), the project is a web application made possible by streamlit and other libraries.
+This is a Face Attendance System with Temperature designed for Honorato C. Perez Sr. Memorial Science High School (HCPSMSHS), the project is a web application made possible by streamlit and other libraries.
 
 ## Setup Instructions
 
